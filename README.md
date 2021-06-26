@@ -5,6 +5,7 @@ My name is Calvin Kling and I'm a Software Developer in the Atlanta, Georgia are
 - 🔭  Currently seeking frontend or fullstack development positions!
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/calvin-kling-872a3a65/) or email klingcal@gmail.com
 - 👨‍💻  Portfolio: http://www.calvinkling.com/
+- 🐉 [Resume](http://www.calvinkling.com/assets/resume.pdf)
 - 🇸🇪  Fun fact: My favorite non-coding language is Swedish!
 
 
