@@ -7,4 +7,5 @@ My name is Calvin Kling and I'm a Software Developer in the Atlanta, Georgia are
 - 👨‍💻  Portfolio: http://www.calvinkling.com/
 - 🇸🇪  Fun fact: My favorite non-coding language is Swedish!
 
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
+<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />
+
